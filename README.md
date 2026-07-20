@@ -1,8 +1,14 @@
 # xOTA-Antenna-100W
-**A pcb for a 100W Fnd Fed Half Wave Antennas (EFHW) for SOTA, POTA,... xOTA** <br /><br />
-
+**A pcb for a 100W End Fed Half Wave Antennas (EFHW) for SOTA, POTA,... xOTA** <br /><br />
 Based on my xOTA-Antenna Design (https://github.com/DG1JAN/xOTA-Antenna) I made an updated Version with a better Toroid for higher power (100W SSB) and lowe core losses.
+***
+# UPDATE (20th July 2026) 
+## ! There is a newer version available at my new "project home" on Codeberg:
 
+https://codeberg.org/dg1jan/xOTA-Antenna-100W
+
+This Repository (and all my other other github repros) will not be updatet in the future, please have a look to https://codeberg.org/dg1jan instead
+***
 ![alt text](https://github.com/DG1JAN/xOTA-Antenna-100W/blob/main/xOTA100W.jpg)
 
 
